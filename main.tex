@@ -1,0 +1,96 @@
+\documentclass{article}
+\usepackage
+[
+        a4paper,% other options: a3paper, a5paper, etc
+        left=2.5cm,
+        right=2.5cm,
+        top=3cm,
+        bottom=3cm,
+        % use vmargin=2cm to make vertical margins equal to 2cm.
+        % use hmargin=3cm to make horizontal margins equal to 3cm.
+        % use margin=3cm to make all margins  equal to 3cm.
+]
+{geometry}
+%\usepackage[utf8]{inputenc}
+%\usepackage{amssymb}
+%\usepackage{graphicx}
+\usepackage{hyperref}
+%\usepackage[demo]{graphicx}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage[ruled,linesnumbered]{algorithm2e}
+\usepackage{amsmath}
+\usepackage{lscape}
+\usepackage{fancyhdr}
+\usepackage{tikz-network}
+\usepackage{cite}
+\usepackage{xepersian}
+\captionsetup[subfigure]{justification=justified,singlelinecheck=false}
+
+\settextfont[Scale=1.25]{XBNiloofar.ttf}
+\setlatintextfont[Scale=1.2]{Times New Roman}
+\setdigitfont[Scale=1.25]{XBNiloofar.ttf}
+\renewcommand{\baselinestretch}{1.5}
+\graphicspath{{fig/}}  
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% header
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{سعید تقوی / اثر تحریک مغز بر فعالیت نوسانی شبکه های مغز}
+\lhead{\thepage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% end header
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% title, author
+
+\title{اثر تحریک مغز بر فعالیت نوسانی شبکه های مغز}
+\author{سعید تقوی
+\LTRfootnote{Email: s.taghavi@iasbs.ac.ir} 
+\\
+استاد راهنما: علیرضا ولیزاده
+\LTRfootnote{Email: valizadeh@iasbs.ac.ir} 
+ \\
+{\small 
+ دانشكدهٔ فیزیک، دانشگاه تحصیلات تكمیلی علوم پایهٔ زنجان، صندوق پستی 45195-1159، زنجان، ایران
+ }
+ \\
+} 
+% \date{\today}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% end title, author
+
+
+\begin{document}
+\maketitle
+\setcounter{page}{1}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% abstract
+\input{text/00abstract}
+% \pagebreak
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% end abstract
+
+
+%\begin{document}
+
+\flushbottom % Makes all text pages the same height
+
+\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+\input{text/01introduction}
+\input{text/02abnormalrhythm}
+\input{text/03brainstimulation}
+\input{text/04simulationModel}
+\input{text/05myresults}
+\input{text/10cherk}
+%------------------------------------------------
+
+\begin{latin}
+\bibliographystyle{unsrt}
+\bibliography{ref}
+\end{latin}
+
+\end{document}

@@ -1,0 +1,2517 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.8.16)  22 NOV 2020 16:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**02abnormalrhythm.tex
+(./02abnormalrhythm.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+! Undefined control sequence.
+l.2 \section
+            { ریتم های بهم ریخته در بیماری ها}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \section{ ر
+               یتم های بهم ریخته در بیماری ها}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--3
+[]
+ []
+
+! Undefined control sequence.
+l.4 \subsection
+               {پارکینسون}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \subsection{پ
+                 ارکینسون}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ژ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ژ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ه in font nullfont!
+! Undefined control sequence.
+l.6 \LTRfootnote
+                {Substantia nigra}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ژ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--10
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12  ر
+       وش‌های درمانی مانند استفاده از داروهای دوپامینرژیک و تحریک عمقی مغز ک...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ژ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ئ in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 12--13
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 م
+      طالعه فعالیت نورونی هم در انسان و هم در مدل های جانوری بیماری پارکینسو...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no م in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+! Undefined control sequence.
+l.15 \lr
+        {GPe}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no G in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ، in font nullfont!
+! Undefined control sequence.
+l.17 \lr
+        {Gpi}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no G in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no و in font nullfont!
+! Undefined control sequence.
+l.19 \lr
+        {STN}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ئ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ض in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+! Undefined control sequence.
+l.21 \lr
+        {Gpi}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no G in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+! Undefined control sequence.
+l.23  \lr
+         {STN}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ئ in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{chen2011stimulation}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .^^J
+l.25 ...jenkinson2011new, hammond2007pathological}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `chen2011stimulation' on page  undefined on input line 
+25.
+
+Missing character: There is no , in font nullfont!
+\citation{moro2002impact}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .^^J
+l.25 ...jenkinson2011new, hammond2007pathological}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `moro2002impact' on page  undefined on input line 25.
+
+Missing character: There is no , in font nullfont!
+\citation{jenkinson2011new}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .^^J
+l.25 ...jenkinson2011new, hammond2007pathological}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `jenkinson2011new' on page  undefined on input line 25.
+
+
+Missing character: There is no , in font nullfont!
+\citation{hammond2007pathological}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .^^J
+l.25 ...jenkinson2011new, hammond2007pathological}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `hammond2007pathological' on page  undefined on input l
+ine 25.
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no . in font nullfont!
+! Undefined control sequence.
+l.27 \subsection
+                {صرع}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ۱ in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ذ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no آ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+! Undefined control sequence.
+l.30 \LTRfootnote
+                 {cortical neurons}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no چ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ز in font nullfont!
+! Undefined control sequence.
+l.33 \LTRfootnote
+                 {EEG}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no E in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no چ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no چ in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 14--35
+[]
+ []
+
+
+Overfull \hbox (5.43pt too wide) in paragraph at lines 14--35
+[]
+ []
+
+
+Overfull \hbox (5.43pt too wide) in paragraph at lines 14--35
+[]
+ []
+
+
+Overfull \hbox (5.43pt too wide) in paragraph at lines 14--35
+[]
+ []
+
+
+Overfull \hbox (5.43pt too wide) in paragraph at lines 14--35
+[]
+ []
+
+! Undefined control sequence.
+l.36 \subsection
+                {اختلال دوقطبی}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 \subsection{ا
+                  ختلال دوقطبی}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ا in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+! Undefined control sequence.
+l.37 \subsection
+                {اختلال اوتیسم}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ا in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no م in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 36--38
+[]
+ []
+
+! Undefined control sequence.
+l.39 \section
+             {درمان}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \section{د
+               رمان}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ؛ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no : in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 39--41
+[]
+ []
+
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no آ in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ِ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ظ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no آ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ذ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ذ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ذ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no آ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no آ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no : in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 52--53
+[]
+ []
+
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ی in font nullfont!
+)
+! Emergency stop.
+<*> 02abnormalrhythm.tex
+                        
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 24 strings out of 479819
+ 522 string characters out of 5895846
+ 244729 words of memory out of 5000000
+ 17245 multiletter control sequences out of 15000+600000
+ 532354 words of font info for 26 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 17i,2n,24p,460b,95s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
