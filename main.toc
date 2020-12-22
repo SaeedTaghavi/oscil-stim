@@ -2,11 +2,9 @@
 \contentsline {section}{\numberline {2}نوسانات عصبی}{4}{section.2}%
 \contentsline {section}{\numberline {3} ریتم های بهم ریخته در بیماری ها}{5}{section.3}%
 \contentsline {subsection}{\numberline {3.1}پارکینسون}{5}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}صرع}{5}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}اختلال دوقطبی}{6}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}اختلال اوتیسم}{6}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.2}صرع}{6}{subsection.3.2}%
 \contentsline {section}{\numberline {4}درمان}{6}{section.4}%
-\contentsline {section}{\numberline {5}تحریک مغز}{6}{section.5}%
+\contentsline {section}{\numberline {5}تحریک مغز}{7}{section.5}%
 \contentsline {subsection}{\numberline {5.1}تحریک عمیق مغز}{9}{subsection.5.1}%
 \contentsline {section}{\numberline {6} مدلسازی نوسانات عصبی در شبکه های نورونی }{11}{section.6}%
 \contentsline {subsection}{\numberline {6.1}نوسانگرها}{11}{subsection.6.1}%
