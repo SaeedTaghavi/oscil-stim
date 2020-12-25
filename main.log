@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.8.16)  24 DEC 2020 01:22
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.8.16)  25 DEC 2020 05:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1445,6 +1445,8 @@ File: fig/dbs-xray-3.png Graphic file (type bmp)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 ) (./text/04simulationModel.tex [10] [11] [12]
+File: fig/kur100.png Graphic file (type bmp)
+<fig/kur100.png>
 File: fig/prc.png Graphic file (type bmp)
 <fig/prc.png>
 
@@ -1454,9 +1456,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: fig/prc-types.png Graphic file (type bmp)
 <fig/prc-types.png>
 ) (./text/05myresults.tex
+Underfull \vbox (badness 4647) has occurred while \output is active []
+
+ [13]
 File: fig/dbs-protocols.png Graphic file (type bmp)
 <fig/dbs-protocols.png>
- [13]
+
+[14] [15]
 File: fig/dbs-closedloop1.png Graphic file (type bmp)
 <fig/dbs-closedloop1.png>
 File: fig/dbs-closedloop2.png Graphic file (type bmp)
@@ -1467,13 +1473,12 @@ File: fig/pulse-shape2.png Graphic file (type bmp)
 <fig/pulse-shape2.png>
 File: fig/pulse-shape3.png Graphic file (type bmp)
 <fig/pulse-shape3.png>
- [14] [15] [16]
-File: fig/kur100.png Graphic file (type bmp)
-<fig/kur100.png>
+ [16]
 File: fig/kur1000orderParam.png Graphic file (type bmp)
 <fig/kur1000orderParam.png>
 File: fig/kur1000-compare-thetas.png Graphic file (type bmp)
 <fig/kur1000-compare-thetas.png>
+ [17]
 File: fig/k1000stim-orderParam1.png Graphic file (type bmp)
 <fig/k1000stim-orderParam1.png>
 File: fig/distro1.png Graphic file (type bmp)
@@ -1488,30 +1493,58 @@ File: fig/k1000theta-stim2.png Graphic file (type bmp)
 <fig/k1000theta-stim2.png>
 File: fig/k1000stim-orderParam.png Graphic file (type bmp)
 <fig/k1000stim-orderParam.png>
-File: fig/theta-dist.png Graphic file (type bmp)
-<fig/theta-dist.png>
 File: fig/orderParam-prc.png Graphic file (type bmp)
 <fig/orderParam-prc.png>
+
+Underfull \hbox (badness 1292) in paragraph at lines 264--264
+[][]\TU/XBNiloofar.ttf(0)/m/n/9 (ب) |نمودار بیشینه تغییرات پارامتر نظم بین[]
+ []
+
+[18]
 File: fig/multiple-stim.png Graphic file (type bmp)
 <fig/multiple-stim.png>
-)
-Underfull \vbox (badness 1242) has occurred while \output is active []
 
- [17]
-[18] [19] [20] (./main.bbl
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--324
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--324
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--324
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--324
+[][]
+ []
+
+) (./main.bbl
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 17.27994pt on input line 1.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
 (Font)              scaled to size 17.27994pt on input line 1.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
 (Font)              scaled to size 11.99997pt on input line 7.
- [21]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+[20]
 Underfull \hbox (badness 1107) in paragraph at lines 96--101
 [][]\TU/TimesNewRoman(0)/m/n/10 A Benabid, Bradley Wallace, John Mitrofanis, Ro
 ng Xia, Brigitte Piallat, Stephan[]
  []
 
-[22]) [23]
+[21]) [22]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
  (./main.aux)
@@ -1526,12 +1559,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 96.
  ) 
 Here is how much of TeX's memory you used:
- 31396 strings out of 479819
- 619642 string characters out of 5895846
- 1011145 words of memory out of 5000000
- 47840 multiletter control sequences out of 15000+600000
+ 31394 strings out of 479819
+ 619604 string characters out of 5895846
+ 1008145 words of memory out of 5000000
+ 47838 multiletter control sequences out of 15000+600000
  536938 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 68i,13n,77p,4869b,526s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,13n,77p,4869b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (23 pages).
+Output written on main.pdf (22 pages).

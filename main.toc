@@ -9,5 +9,5 @@
 \contentsline {section}{\numberline {6} مدلسازی نوسانات عصبی در شبکه‌های نورونی }{10}{section.6}%
 \contentsline {subsection}{\numberline {6.1} مدل کوراموتو به عنوان یک مدل جمعیتی ساده }{12}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}تابع پاسخ فاز}{13}{subsection.6.2}%
-\contentsline {section}{\numberline {7}نتایج }{13}{section.7}%
-\contentsline {subsection}{\numberline {7.1}تضعیف وابسته به فاز نوسانات غیر عادی در سیستم عصبی}{13}{subsection.7.1}%
+\contentsline {section}{\numberline {7}نتایج }{14}{section.7}%
+\contentsline {subsection}{\numberline {7.1}تضعیف وابسته به فاز نوسانات غیر عادی در سیستم عصبی}{14}{subsection.7.1}%
